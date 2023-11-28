@@ -39,14 +39,14 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![step1](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/9c28094d-2e7c-423c-9934-76f4bd755f41)
+![step3](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/e1ba2736-acaf-4975-805c-737f083060af)
+![step4](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/4afafa22-eaec-4658-95fc-b8ee347ad79d)
+![step5](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/a5d9d72b-e747-4430-8a01-bd8bcf235ff6)
+![step6](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/2117f2e3-e560-4aff-a962-6055a79c69e5)
 
-## Output:
-
-### Name:
-### Register Number:
+### Name: RIYA P L
+### Register Number: 23005672
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
