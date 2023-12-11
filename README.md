@@ -45,8 +45,8 @@
 ![step5](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/a5d9d72b-e747-4430-8a01-bd8bcf235ff6)
 ![step6](https://github.com/23005672/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138971519/2117f2e3-e560-4aff-a962-6055a79c69e5)
 
-### Name: RIYA P L
-### Register Number: 23005672
+### Name: ABISHAI K C
+### Register Number: 212223040002
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
